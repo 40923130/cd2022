@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'MY WEB IN 2022', 'text': '40923130 林祐詮\xa0 \n 協同產品', 'tags': '', 'url': 'MY WEB IN 2022.html'}]};
+var tipuesearch = {"pages": [{'title': 'MY WEB IN 2022', 'text': "40923130 林祐詮\xa0 \n 協同產品 \n Where there's a will,there's a way. \n", 'tags': '', 'url': 'MY WEB IN 2022.html'}]};
